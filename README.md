@@ -12,9 +12,8 @@
 ## 💼 LinkedIn
 
 <a href="https://www.linkedin.com/in/emre-yilmazzz/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" />
-</a>  
-📎 [linkedin.com/in/emre-yilmazzz](https://www.linkedin.com/in/emre-yilmazzz/)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
+</a>
 
 ---
 

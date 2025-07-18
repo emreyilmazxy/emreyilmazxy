@@ -1,4 +1,4 @@
-# 👋 Merhaba, ben Emre
+# 👋 Merhaba, ben Emre — Full-Stack Developer
 
 🎓 Radyo, Televizyon ve Sinema mezunuyum, ama asıl tutkum yazılım geliştirme!  
 🚀 Full-stack web geliştirme alanında kendimi geliştiriyorum.  
@@ -12,12 +12,11 @@
 ## 💼 LinkedIn
 
 <a href="https://www.linkedin.com/in/emre-yilmazzz/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
-</a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" />
+</a>  
+📎 [linkedin.com/in/emre-yilmazzz](https://www.linkedin.com/in/emre-yilmazzz/)
 
 ---
-
-## 💻 Diller ve Araçlar
 
 ## 💻 Diller ve Araçlar
 
@@ -33,6 +32,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code" />
-</div>
-
+  <img s

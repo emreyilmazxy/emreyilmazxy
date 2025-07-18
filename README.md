@@ -12,7 +12,7 @@
 ## 💼 LinkedIn
 
 <a href="https://www.linkedin.com/in/emre-yilmazzz/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" />
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30" />
 </a>  
 📎 [linkedin.com/in/emre-yilmazzz](https://www.linkedin.com/in/emre-yilmazzz/)
 
@@ -32,4 +32,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub" />
-  <img s
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code" />
+</div>

@@ -1,12 +1,10 @@
 # 👋 Merhaba, ben Emre — Full-Stack Developer
 
-🎓 Radyo, Televizyon ve Sinema mezunuyum, ama asıl tutkum yazılım geliştirme!  
-🚀 Full-stack web geliştirme alanında kendimi geliştiriyorum.  
-💡 Proje üretmeyi, yeni teknolojiler öğrenmeyi ve yazılım dünyasının sunduğu olanakları keşfetmeyi seviyorum.  
-🌍 HTML, CSS, JavaScript gibi temel teknolojilerin yanı sıra .NET Core ile backend tarafında da projeler geliştiriyorum.  
-🧠 Front-end ve back-end tarafında aktif öğrenmeye devam ediyorum, özellikle React ve ASP.NET alanlarında çalışmalar yapıyorum.  
-🎯 Hedefim: yazılım dünyasında yaratıcı ve çözüm odaklı projeler üretmek.
-
+🚀 Full-stack web geliştirme alanında kendimi sürekli geliştiriyorum.
+💡 Proje üretmeyi, yeni teknolojiler öğrenmeyi ve yazılım dünyasının sunduğu olanakları keşfetmeyi seviyorum.
+🌍 HTML, CSS, JavaScript gibi temel teknolojilerin yanı sıra .NET Core ile backend tarafında da projeler geliştiriyorum.
+🧠 Front-end ve back-end tarafında aktif öğrenmeye devam ediyorum, özellikle React ve ASP.NET alanlarında odaklı çalışmalar yapıyorum.
+🎯 Amacım, yazılım dünyasında yaratıcı, sürdürülebilir ve çözüm odaklı projeler üretmek.
 ---
 
 ## 💼 LinkedIn

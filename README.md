@@ -7,7 +7,8 @@
 🎯 Hedefim; yazılım projelerinde doğru ihtiyacın doğru çözüme dönüşmesine katkı sağlayan bir BT İş Analisti olarak kariyerime başlamak.
 
 💼 LinkedIn
-<a href="https://www.linkedin.com/in/emre-yilmazzz/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30" /> </a>
+<a href="[https://www.linkedin.com/in/emre-yilmazzz/](https://www.linkedin.com/in/emre-y%C4%B1lmz/)" target="_blank"> 
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30" /> </a>
 🧩 İlgi ve Gelişim Alanlarım
 
 Gereksinim analizi ve dokümantasyon

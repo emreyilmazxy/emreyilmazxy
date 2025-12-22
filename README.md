@@ -6,9 +6,9 @@
 💡 Karmaşık problemleri sadeleştirmeyi, ihtiyaçları net ve uygulanabilir gereksinimlere dönüştürmeyi öğreniyorum.
 🎯 Hedefim; yazılım projelerinde doğru ihtiyacın doğru çözüme dönüşmesine katkı sağlayan bir BT İş Analisti olarak kariyerime başlamak.
 
-## 💼 LinkedIn
 
-<a href="https://www.linkedin.com/in/emre-y%C4%B1lmz/" target="_blank">
+
+<a href="https://www.linkedin.com/in/emre-y%C4%B1lmz/" target="_blank"> ## 💼 LinkedIn
   <img 
     src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
     alt="LinkedIn Profili" 

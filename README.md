@@ -7,14 +7,16 @@
 🎯 Hedefim; yazılım projelerinde doğru ihtiyacın doğru çözüme dönüşmesine katkı sağlayan bir BT İş Analisti olarak kariyerime başlamak.
 
 
+## 💼 LinkedIn
 
-<a href="https://www.linkedin.com/in/emre-y%C4%B1lmz/" target="_blank"> ## 💼 LinkedIn
+<a href="https://www.linkedin.com/in/emre-y%C4%B1lmz/" target="_blank">
   <img 
     src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
     alt="LinkedIn Profili" 
-    width="32"
+    width="36"
   />
 </a>
+
 
 🧩 İlgi ve Gelişim Alanlarım
 

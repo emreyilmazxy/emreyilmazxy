@@ -7,7 +7,7 @@
 
  Yazılım geliştirme yaşam döngüsü (SDLC), uygulama mimarisi, veri akışları, kullanıcı ihtiyaçları ve teknik kısıtların birlikte ele alınması konularında kendimi geliştirmeye devam ediyorum.
 
- Amacım; geliştirme ya da analiz odaklı fark etmeksizin, yazılım projelerinde **doğru ihtiyacın doğru teknik çözüme dönüşmesine katkı sağlayan**, teknik ekiplerle aynı dili konuşabilen bir profesyonel olarak kariyerime sağlam bir temel atmak.
+ Amacım; geliştirme ya da analiz odaklı fark etmeksizin, yazılım projelerinde doğru ihtiyacın doğru teknik çözüme dönüşmesine katkı sağlayan, teknik ekiplerle aynı dili konuşabilen bir profesyonel olarak kariyerime sağlam bir temel atmak.
 
 ---
 
